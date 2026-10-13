@@ -1,0 +1,16 @@
+{
+  "release": "AM-DOS-6.56-COMPILED-DEVELOPMENT",
+  "source_git_commit": "e7683287750324885063b99cd8a2bf2b099a2b49",
+  "image": {
+    "name": "AM-DOS-6.56-x86_64-AMFS.img",
+    "bytes": 268435456,
+    "sha256": "3d3ac8b1922c77e9dbf25b9c7f375f98559b9d70c80d5d864db4f0d2d6bc15ac"
+  },
+  "verified": {
+    "amfs_image_integrity": "PASS",
+    "qemu_guest_boot": "NOT RUN",
+    "webkit_browser": "NOT OPERATIONAL",
+    "https_authentication": "NOT VERIFIED"
+  },
+  "note": "Compiled development disk; not a proven bootable release"
+}
