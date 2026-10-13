@@ -2,11 +2,19 @@
 
 ### Artificially Made Disk Operating System
 
+**Short description:** An AI-assisted experimental x86-64 operating system with a custom kernel, AMFS filesystem, graphical desktop, and native applications.
+
+**AM-DOS is an AI-assisted operating-system development project.** Its design, implementation, debugging, and documentation have been developed with the assistance of AI coding tools and human direction and review. AI assistance does not imply that every feature has been independently verified.
+
 **AM-DOS** is an experimental operating-system project built around a custom x86-64 kernel, its own disk filesystem, graphical desktop, and native applications. It is an ongoing attempt to build an independent desktop operating system rather than a Linux distribution or a Windows modification.
 
 > **Current version: 6.56 | Compiled development preview**
 >
 > This repository is being assembled. It currently provides launch instructions and release metadata, **not the full source tree or the bootable disk image**. The uploaded development image has passed host-side integrity checks, but **a successful QEMU guest boot has not been verified**. Treat this as a development preview, not a stable OS release.
+
+## Desktop preview
+
+The provided screenshot shows the BreezeUI desktop, an installer window, and appearance settings with glass borders. It is a visual reference supplied by the project author, not evidence that the 6.56 compiled image has passed a boot test. The screenshot is awaiting upload to this repository.
 
 ## What is AM-DOS?
 
